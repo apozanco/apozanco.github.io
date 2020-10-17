@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://apozanco.github.io/
-baseurl: 
+url: http://apozanco.github.io
+baseurl: /
 title: Alberto Pozanco
 author: Alberto Pozanco
 description: Personal webpage
